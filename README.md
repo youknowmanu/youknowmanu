@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">⚡ JARVIS-X Developer Console ⚡</h1>
+<h1 align="center">⚡ Developer Console ⚡</h1>
 
 <p align="center">
 
